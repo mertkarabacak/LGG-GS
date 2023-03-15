@@ -4,21 +4,22 @@ To our knowledge, no previous study has applied a deep learning-based radiomic a
 
 ## Files
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+The .py files are sorted by the recommended order of running.
+
+1) get_clinic.py: This file serves as getting clinical information and creating data for risk groups.
+2) get_nifti.py: This file serves as reading the imaging data.
+3) train.py: This file serves to train the models.
+4) predict.py: This file serves to make predictions from trained models and get performance metrics.
+
+augment.py, configs.py and generator.py should be in the working directory when running these .py files.
 
 ## Authors of the Study
 
-Mert Karabacak
+1) Mert Karabacak
 Department of Neurosurgery, Mount Sinai Health System, 1468 Madison Avenue, New York, NY, 10029, USA; mert.karabacak@mountsinai.org
-
-Burak B. Ozkara
+2) Burak B. Ozkara
 Department of Neuroradiology, MD Anderson Cancer Center, 1400 Pressler Street, Houston, TX, 77030, USA; bbozkara@mdanderson.org
-
-Kaan Senparlak
+3) Kaan Senparlak
 School of Computation, Information and Technology, Technical University of Munich, Theresienstr. 90, München, Bayern, 80333, Germany; kaansenparlak@hotmail.com
-
 4) Sotirios Bisdas*
 Department of Neuroradiology, The National Hospital for Neurology and Neurosurgery, University College London NHS Foundation Trust, London WC1N 3BG, UK
