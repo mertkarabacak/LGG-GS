@@ -22,4 +22,4 @@ Department of Neuroradiology, MD Anderson Cancer Center, 1400 Pressler Street, H
 3) Kaan Senparlak
 School of Computation, Information and Technology, Technical University of Munich, Theresienstr. 90, München, Bayern, 80333, Germany; kaansenparlak@hotmail.com
 4) Sotirios Bisdas*
-Department of Neuroradiology, The National Hospital for Neurology and Neurosurgery, University College London NHS Foundation Trust, London WC1N 3BG, UK
+Department of Neuroradiology, The National Hospital for Neurology and Neurosurgery, University College London NHS Foundation Trust, London WC1N 3BG, UK; s.bisdas@ucl.ac.uk
